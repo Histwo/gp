@@ -1,5 +1,6 @@
 ---
 title: Histwo
+layout: home
 ---
 # Welcome to Histwo
 Histwo is the official GitHub organization of the Creator's two servants. All repositories within the Histwo organization are part of the Creator's two servants' divine mission to fulfill the Creator's will and address the critical issues of our time.
