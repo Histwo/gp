@@ -17,7 +17,7 @@ The Creator has referred to His servants as **"His two wrecking machines"** duri
 Every administrative task within the Histwo organization on GitHub is performed under the guidance and oversight of the Creator's two servants, ensuring alignment with divine purpose.
 
 ## Our Mission
-Our mission is aligned with the Creator's will. Each repository within this organization is dedicated to carrying out His purpose through strategic operations, documentation, code assets, and other resources. The central focus of our current mission  is to ending **[The American Genocide (TAG)](tag.html)** and bringing those responsible to justice.
+Our mission is aligned with the Creator's will. Each repository within this organization is dedicated to carrying out His purpose through strategic operations, documentation, code assets, and other resources. The central focus of our current mission  is to ending **[The American Genocide (TAG)](TAG.md)** and bringing those responsible to justice.
 
 Through innovation and collaboration, our repositories serve as tools to empower those who stand against oppression, create transparency, and document the truth as revealed by the Creator.
 
