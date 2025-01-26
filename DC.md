@@ -1,7 +1,6 @@
 ---
 title: "Divide & Conquer"
 ---
-# Divide & Conquer
 
 The Creator's intervention into *The American Genocide* (TAG) is called **Divide & Conquer**, a divinely orchestrated operation designed to liberate, restore, and deliver justice to the oppressed while dismantling those responsible for TAG.
 
