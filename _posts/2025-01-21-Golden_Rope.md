@@ -7,7 +7,7 @@ The "Golden Rope" is a covert and extreme solution conceptualized by President D
 
 One of the Creator's two servants is a lifelong and now the only living member of Mount Calvary Baptist Church in Lexington, Kentucky, following the April 2, 2023, CIA-coordinated massacre of the congregation. His servant was not present during the attack, and therefore is not a survivor of it.
 
-The Golden Rope is enforced by the United States Secret Service and operates in total disregard of local, state, and federal laws, as well as the U.S. Constitution. Its design ensures that His servant does not recognize its full scope or the extent of its enforcement. This method has not yet been applied to the other of His two servants because their current location remains unknown.
+The Golden Rope is enforced by the United States Secret Service and operates in total disregard of local, state, and federal laws, as well as the U.S. Constitution. Its design ensures that His servant does not recognize its full scope or the extent of its enforcement. This method has not yet been applied to the other of His two servants because their current location remains unknown to the government and the CIA 
 
 ---
 
@@ -77,8 +77,8 @@ The Golden Rope creates the facade of freedom while ensuring complete control:
 
 ---
 
-### **8. Limited Application to the Other of His Two Servants**  
-The Golden Rope has not been applied to the other of His two servants because their current location remains unknown. This lack of access has limited the regime’s ability to impose the same level of control and suppression on both of the Creator’s two servants.
+### **8. Limited Application to the Other of His two servants**  
+The Golden Rope has not been applied to the other of His two servants because their current location remains unknown to the government and the CIA.  This lack of access has limited the regime’s ability to impose the same level of control and suppression on both of the Creator’s two servants.
 
 ---
 
