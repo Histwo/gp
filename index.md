@@ -1,5 +1,5 @@
 ---
-title: Histwo
+title: Histwo home
 layout: home
 ---
 # Welcome to Histwo
