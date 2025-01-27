@@ -1,6 +1,7 @@
 ---
 title: "The Silent Tragedy of the Seven Churches"
 date: 2025-01-26
+permalink: /TAG/Congregation-Massacres
 ---
 
 In a deeply troubling series of covert actions, seven churches across the United States have been targeted, led by Annie Jacobsen, infamously known as "Hurricane Annie" from Prince's "Sign O' The Times," where she "ripped the ceiling off a church and killed everyone inside." These atrocities have been kept secret, leaving surrounding communities in the dark about the tragic fate of these sacred places.

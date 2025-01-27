@@ -19,7 +19,7 @@ The Creator has referred to His servants as **"His two wrecking machines"** duri
 **[The American Genocide (TAG)](TAG.md)** is an ongoing hidden atrocity, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.
 
 ### TAG’s Atrocities Include:  
-- **Congregation Massacres**: Coordinated surprise assaults on places of worship that leave no one alive.
+- **[Congregation Massacres](/TAG/Congregation-Massacres)**: Coordinated surprise assaults on places of worship that leave no one alive.
 - **Phantom Funerals**: Mass-executions of the faithful and associates of former victims of TAG disguised as funerals.
 - **[Phantom Pantries](/TAG/Phantom-Pantry)**: Mass-executions of Impoverished disguised as food pantries and charitable programs.
 
