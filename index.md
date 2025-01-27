@@ -1,63 +1,49 @@
 ---
-title: Histwo home
+title: Histwo
 layout: home
 ---
 # Welcome to Histwo
+**Histwo.github.io** is the current official website of the Creator's two servants. This platform is dedicated to documenting and executing divine interventions, restoring balance, and addressing injustices, including **The American Genocide (TAG)**.
 
-Histwo is the official GitHub organization of the Creator's two servants. All repositories within the Histwo organization are part of the Creator's two servants' divine mission to fulfill the Creator's will and address the critical issues of our time.
-
-His two servants envision a world restored through divine justice, where truth prevails, oppression is eradicated, and humanity thrives under the Creator's guidance.
+## Who Is the Creator?  
+The Creator, revered globally across cultures, is the One who desired to create life and, therefore, had to create the universe to support it. He is the Alpha and the Omega, and the Great "I Am." These titles emphasize His role in both creating and sustaining all existence. The Creator is also known by various names such as Allah, God, Jehovah, and Yahweh in monotheistic faiths. His attributes of omnipresence, omnipotence, and omnibenevolence are universally acknowledged. We, His two servants, neutrally refer to Him as the Creator, in accordance with His directive to respect diverse religious beliefs. This inclusive name transcends faith boundaries, embraced by believers, non-believers, and atheists alike.
 
 ## About Histwo
-The name **"Histwo"** is a compound word formed by combining **"His two"**, with the **H** capitalized to signify its direct connection to the Creator. Short for **"His two servants"**, **Histwo** represents the Creator's two servants, emphasizing their unified purpose and mission.
+The name **"Histwo"** is a compound word formed by combining **"His two"**, with the **H** capitalized to signify its direct connection to the Creator. Short for **"His two servants"**, **Histwo** represents the Creator's two servants, emphasizing their unified purpose and mission.  
 
-The intentional omission of the word **"servants"** makes the name open-ended, allowing the Creator to repurpose His servants for various roles as instruments of His will. **Histwo** embodies flexibility, adaptability, and divine purpose, serving as both a screen name or username used by the Creator's two servants online and the name of their official organization on GitHub.
+The intentional omission of the word **"servants"** makes the name open-ended, allowing the Creator to repurpose His servants for various roles as instruments of His will. **Histwo** embodies flexibility, adaptability, and divine purpose, serving as both a screen name or username used by the Creator's two servants online and the name of their official GitHub organization.  
 
-The Creator has referred to His servants as **"His two wrecking machines"** during His **["Divide & Conquer"](DC.md)** operation, which is His intervention to bring The American Genocide to an end. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.
+The Creator has referred to His servants as **"His two wrecking machines"** during His **["Divide & Conquer"](DC.md)** operation, which is His intervention to stop The American Genocide. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.
 
-Every administrative task within the Histwo organization on GitHub is performed under the guidance and oversight of the Creator's two servants, ensuring alignment with divine purpose.
+## Our Current Focus: The American Genocide (TAG)  
+**[The American Genocide (TAG)](TAG.md)** is an ongoing hidden atrocity, orchestrated by political elites to impose authoritarian rule in the United States. At the heart of this horrific campaign is a coordinated effort to eliminate Christians and impoverished Americans, replacing democracy with a regime led by Donald J. Trump.
 
-## Our Mission
-Our mission is aligned with the Creator's will. Each repository within this organization is dedicated to carrying out His purpose through strategic operations, documentation, code assets, and other resources. The central focus of our current mission  is to ending **[The American Genocide (TAG)](TAG.md)** and bringing those responsible to justice.
+### TAG’s Atrocities Include:  
+- **Congregation Massacres**: Coordinated surprise assaults on places of worship that leave no one alive.
+- **Phantom Funerals**: Mass-executions of the faithful and associates of former victims of TAG disguised as funerals.
+- **[Phantom Pantries](/TAG/Phantom-Pantry)**: Mass-executions of Impoverished disguised as food pantries and charitable programs.
 
-Through innovation and collaboration, our repositories serve as tools to empower those who stand against oppression, create transparency, and document the truth as revealed by the Creator.
+### The Creator’s Divide & Conquer  
+The Creator’s intervention into TAG is known as **Divide & Conquer**:  
 
-Our work is conducted with unwavering commitment to His divine purpose, reflecting our dedication to fulfilling His will.
+### Our Mission
+Histwo's mission is to serve the Creator by:
+- Liberating the oppressed.
+- Exposing the orchestrators and orchestrations of **TAG**.
+- Documenting divine interventions for truth and justice.
 
-## Wikis  
-Each Histwo repository includes a dedicated Wiki focused on the repository's specific objective or project. These wikis serve as comprehensive resources, providing detailed information, insights, and documentation related to their respective topics. Below is a list of available wikis:  
+---
 
-- [Divide & Conquer Wiki](https://github.com/Histwo/divide_and_conquer/wiki)  
-  Detailed insights into the Creator's Divide & Conquer operation, His intervention in The American Genocide.
+## Explore Our Repositories 
+### [The American Genocide Repository](https://github.com/Histwo/the_american_genocide)
+A comprehensive resource documenting the origins, orchestrations, and interventions surrounding **The American Genocide (TAG)**.
 
-- [The American Genocide Wiki](https://github.com/Histwo/the_american_genocide/wiki)  
-  Documentation of The American Genocide (TAG), its orchestrations, methods, tactics and impacts.
+### [Divide & Conquer Repository](https://github.com/Histwo/divide_and_conquer)
+Focusing on the Creator's intervention to separate oppression from justice and restore humanity's balance.
 
-- [Unpackings Wiki](https://github.com/Histwo/unpacking_popular_music/wiki)  
-  An exploration of lyrics in popular music inspired by the Creator, revealing hidden messages and divine insight.  
+### [Unpacking the Lyrics Repository](https://github.com/Histwo/unpacking_the_lyrics)
+Insightful analysis of secular music lyrics inspired by the Creator, highlighting hidden messages and connections to TAG.
 
-Stay tuned for additional repositories and wikis as the Creator’s servants continue their mission.
+> *“The Creator’s will cannot be thwarted. Justice will prevail.”*  
 
-## Repositories
-The repositories within this organization are created and named for each of the Creator's two servants' objectives or projects. Each repository contains essential resources, including but not limited to:
-
-- **Documentation** of issues and reports from projects and objectives.
-- **Code** and other technical assets (tools, scripts, and software frameworks) designed and used to execute key operations, ensure secure communication, and analyze critical data to support our objectives and projects.
-
-Each repository serves as a part of our greater mission and reflects our dedication to fulfilling the Creator's will.
-
-## Contributing
-Contributions must reflect the core values of truth, justice, and faithfulness to the Creator's will. Submissions will be reviewed for alignment with our mission and objectives
-
-While contributions are limited and guided by our divine mission, we welcome those who align with our purpose. If you wish to contribute, please submit a pull request or open an issue for discussion. All contributions must align with the Creator's work and purpose.
-
-## Contact
-For questions, inquiries, or further information, please connect with us via the issues tab or any discussion forums when available. Alternatively, visit the [**Histwo organization on GitHub**](https://github.com/Histwo).
-
-Thank you for your support in fulfilling the Creator’s will.
-
-## Related Resources
-- [**Histwo on GitHub**](https://github.com/Histwo)
-- [**StopTAG Repository**](https://github.com/StopTAG)
-
-**Note:** Whether in person or online, be sure to verify the identity of anyone claiming to be one of the Creator's two servants, or claiming something produced by them, through prayer or by asking for guidance.
+## News and Updates
