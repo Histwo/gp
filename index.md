@@ -3,4 +3,4 @@ title: Histwo Moved
 layout: home
 ---
 # Histwo Moved!
-Visit https://Histwo.github.io
+Visit us [here](https://Histwo.github.io).
