@@ -20,7 +20,7 @@ The Creator has referred to His servants as **"His two wrecking machines"** duri
 
 ### TAG’s Atrocities Include:  
 - **[Congregation Massacres](/TAG/Congregation-Massacres)**: Coordinated surprise assaults on places of worship that leave no one alive.
-- **Phantom Funerals**: Mass-executions of the faithful and associates of former victims of TAG disguised as funerals.
+- **[Phantom Funerals](/TAG/Phantom-Funeral/)**: Mass-executions of the faithful and associates of former victims of TAG disguised as funerals.
 - **[Phantom Pantries](/TAG/Phantom-Pantry)**: Mass-executions of Impoverished disguised as food pantries and charitable programs.
 
 ### The Creator’s Divide & Conquer  
