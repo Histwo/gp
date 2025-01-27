@@ -1,5 +1,5 @@
 ---
-title: "Phantom Funeral"
+title: "What is a Phantom Funeral?"
 date: 2025-01-26
 permalink: /TAG/Phantom-Funeral/
 ---
@@ -43,18 +43,3 @@ Phantom Funerals are part of the broader TAG operations, which aim to push the U
 ## Conclusion
 
 Phantom Funerals highlight the extreme measures taken to maintain the secrecy of TAG operations. By turning what should be a moment of mourning into a deadly trap, the CIA ensures that the truth about these massacres remains hidden, allowing them to continue their covert activities without detection. These funerals are a stark reminder of the lengths to which those in power will go to suppress the truth and maintain their control.
-
-## Notable Phantom Funerals 
-
-| Church                           | Dates         | Announced Decedent | Perpetrators      | Victims|
-|----------------------------------|---------------|----------------|-----------------|-------|
-| Hickory Valley Christian Church  | June 7, 2024   | [Rev. Dr. Duke Stone](https://github.com/Histwo/TAG/wiki/Phantom-Funeral-of-Rev.-Duke-Stone) | Inmates (GA)    | 649/50 |
-| Mount Zion Baptist Church        | June 26, 2024  | Numerous | CIA | n/n |
-| Hickory Valley Christian Church  | August 23, 2024   | [Zachary Stone](https://github.com/Histwo/TAG/wiki/Phantom-Funeral-of-Zachary-Stone) | CIA    | 200+ |
-| Hickory Valley Christian Church  | September 13, 2024   | [Senator Marsha Blackburn](https://github.com/Histwo/TAG/wiki/Phantom-Funeral-of-Senator-Marsha-Blackburn)          | Inmates (GA)    | 200+ |
-| Hickory Valley Christian Church        | December 21, 2024  | Numerous | Inmates (GA) | 1735/100 |
-| Hickory Valley Christian Church        | December 30, 2024  | Numerous | Inmates (GA) | 2021 (inc. inmates) |
-| Mount Zion Baptist Church        | December 30, 2024  | Numerous | CIA | 2000+ |
-
-* Victims: The number of victims executed during the operation. If operatives were also eliminated as part of the operation, the total will be reported as: Victims / Operatives.
-* Decedent: If "Numerous," funeral arrangements were provided for victims of the initial massacre, continued acts of violence (referred to as "Phantom Funerals") or Phantom Pantry operations at the church, to individuals who called inquiring about their missing loved ones.
